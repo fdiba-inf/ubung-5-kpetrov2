@@ -26,9 +26,7 @@ public class Search {
 
             System.out.println("Number index: " + numberIndex);
           }
-        }
-        // Search for number in numbers
-
-        
+          }
+          System.out.println("Number index: " + numberIndex);
+      }   
     }
-}
